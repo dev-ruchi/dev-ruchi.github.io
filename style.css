@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(74, 86, 196);
+}
+
+.image{
+    max-width: 10%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+
+#main{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    font-size: 20px;
+    color: white;
+}
+
+#heading{
+text-align: center;
+padding: 30px;
+font-size: 30px;
+color: white;
+margin: auto;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#p1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    margin-bottom: 100px;
+
+}
+
